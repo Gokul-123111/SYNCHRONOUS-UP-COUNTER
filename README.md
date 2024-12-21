@@ -1,5 +1,5 @@
 ### SYNCHRONOUS-UP-COUNTER
-**DATE : 10/12/2024
+**DATE : 10/12/2024**
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
@@ -57,7 +57,7 @@ end
 endmodule
 
 
-Developed by: Gokul S
+**Developed by: Gokul S**
 RegisterNumber:24900980
 */
 
