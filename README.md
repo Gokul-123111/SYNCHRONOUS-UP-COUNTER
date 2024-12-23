@@ -28,8 +28,6 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-/* write all the steps invloved */
-
 1.Initialize the shift register to a known state (e.g., all zeros).
 
 2.Input a bit serially into the shift register.
@@ -43,7 +41,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
-
+```
 module e11(out,clk,rst);
 input clk,rst;
 output reg [3:0]out;
@@ -55,11 +53,11 @@ begin
      out <= out+1;
 end
 endmodule
-
+```
 
 **Developed by: Gokul S**
 RegisterNumber:24900980
-*/
+
 
 **RTL LOGIC UP COUNTER**
 ![image](https://github.com/user-attachments/assets/30712dd0-110d-4593-8d18-2bbeff099af3)
