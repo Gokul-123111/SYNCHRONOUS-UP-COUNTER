@@ -63,11 +63,11 @@ RegisterNumber:24900980
 ![image](https://github.com/user-attachments/assets/30712dd0-110d-4593-8d18-2bbeff099af3)
 
 
-**TIMING DIAGRAM FOR IP COUNTER**
+**TIMING DIAGRAM FOR UP COUNTER**
 ![image](https://github.com/user-attachments/assets/21412429-7964-4386-8dac-a45b56575f34)
 
 
-**TRUTH TABLE**
+# TRUTH TABLE
 ![WhatsApp Image 2024-12-20 at 13 54 25_e0b74ae2](https://github.com/user-attachments/assets/f3de6d8b-d058-46b1-ae18-49060b3b49fb)
 
 
